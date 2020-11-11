@@ -1,2 +1,2 @@
 # fraudalent_domain_script
-Usom zararlı bağlantılardan çekilen veriler arasında dolancırıcı domaini araması yapılır.
+Usom zararlı bağlantılar linkinde yayınlanan URL'ler arasından istediğiniz kelime ile ilgili filtreleme yapar.
